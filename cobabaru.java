@@ -1,2 +1,5 @@
-public static void main(String)
-psvm
+public class cobabaru {
+    public static void main(String[] args) {
+         
+    }
+}
